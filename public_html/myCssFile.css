@@ -688,10 +688,22 @@ and open the template in the editor.
         text-align: center;
     }
     
-     #agile_image
+    #agile_image
     {
         width:45%;
         height:45%;
+    }
+    
+    #slack_image
+    {
+        width: 100%;
+        height: 100%;
+    }
+    
+    #slackDiv
+    {
+        margin: 0 auto;  
+        text-align: center;
     }
     
     #scrumDiv
